@@ -1,0 +1,4 @@
+from safeway_guardian.examples import cosmic_awareness
+
+cosmic_ai = cosmic_awareness.CosmicConsciousnessAI()
+universal_insights = cosmic_ai.access_universal_knowledge("quantum_physics")
