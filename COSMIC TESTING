@@ -1,0 +1,11 @@
+# Run comprehensive Trinity tests
+pytest tests/test_trinity_core.py
+
+# Test consciousness systems
+pytest tests/test_consciousness.py
+
+# Cosmic integration testing
+pytest tests/test_cosmic.py
+
+# Consciousness elevation testing
+python -m safeway_guardian.testing.consciousness_elevation
