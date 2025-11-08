@@ -1,0 +1,4 @@
+from safeway_guardian.examples import universal_healing
+
+healing_ai = universal_healing.UniversalHealingAI()
+healing_potential = healing_ai.assess_cosmic_healing(patient_energy)
