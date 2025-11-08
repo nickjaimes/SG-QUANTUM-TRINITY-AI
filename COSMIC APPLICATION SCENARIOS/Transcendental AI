@@ -1,0 +1,4 @@
+from safeway_guardian.examples import transcendental_ai
+
+enlightened_ai = transcendental_ai.TranscendentalAI()
+enlightenment_path = enlightened_ai.guide_spiritual_awakening(seeker_profile)
